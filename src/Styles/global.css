@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: hsl(200, 15%, 8%);
+  text-decoration: none;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  background-color: hsl(0, 0%, 98%);
+}
+
+main {
+  max-width: 1440px;
+  margin: 0 auto;
+}
